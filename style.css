@@ -15,6 +15,7 @@ section{
 .half-width{
     width: 50%;
     padding-left: 10%;
+   
 }
 .half-width img{
  width: 80%;
@@ -27,3 +28,41 @@ section{
     padding: 10px 20px;
     border-radius: 5px;
 }
+
+.flexible-container{
+    text-align: center;
+}
+.flexible-container{
+   color: tomato;
+   
+}
+.middle{
+    text-align: center;
+
+}
+.flex{
+    display: flex;
+    width: 50%;
+}
+.auto{
+    display: flex;
+    width: 50%;
+}
+.divided-area{
+    width: 100%;
+    padding: 30px;
+    margin: 5px;
+   background-repeat: no-repeat;
+    background-image: url(shape-3.png);
+    background-position: center;
+}
+.divided-area p{
+text-align: center;
+text-align: justify;
+mask-image: linear-gradient(blue, salmon);
+}
+.image-center{
+    image
+}
+
+
