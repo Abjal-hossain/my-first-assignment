@@ -66,3 +66,11 @@ mask-image: linear-gradient(blue, salmon);
     width
     
 }
+.fourth-section{
+    display: flex;
+}
+.last{
+    display: flex;
+    text-align: center;
+}
+.
